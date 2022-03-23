@@ -3,6 +3,7 @@ file = open('file.txt', 'w+')
 # w - do zapisu
 # w+ - do zapisu i odczytu
 
+
 countries_capitals = {'Polska': 'Warszawa', 'Niemcy': 'berlin', 'Czechy': 'Praga'}
 
 for country, capital in countries_capitals.items():

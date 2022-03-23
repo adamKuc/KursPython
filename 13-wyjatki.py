@@ -7,6 +7,7 @@ try:
 # 	print('Nie znaleziono klucza')
 # except ZeroDivisionError:
 # 	print('Nie można dzielić przez 0')
+
 except:
 	print('Nie znany błąd')
 finally:

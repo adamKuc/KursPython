@@ -1,4 +1,5 @@
 countries = {}
+
 countries['Polska'] = ('Warszawa', 38)
 countries['Niemcy'] = ('Berlin', 83)
 countries['Słowacja'] = ('Bratysława', 5.6)
